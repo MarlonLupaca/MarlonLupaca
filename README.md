@@ -15,18 +15,19 @@ Como desarrollador, me especializo en:
 ## 💻 Tecnologías que utilizo
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/9c38d590-37fa-48b4-95f1-9f3442996292" alt="CSS3" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/15998715-a780-4044-93a4-d1d4655c658c" alt="Git" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/88ef86d5-a061-4579-b217-5a42b66bf26d" alt="GitHub" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/3bcf513a-4642-46ac-83cf-87fb9ea0e9d7" alt="HTML5" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/d2271ae6-bd7c-491a-bf97-e27294ab13d9" alt="Java" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/c5caa17f-db91-4e48-82ff-4be39fbe6c72" alt="JavaScript" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/ac21615d-94fa-4719-a735-db5751245d7e" alt="MySQL" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/802bfb3c-b364-46ab-829e-687c8adc7a81" alt="Tailwind" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/a0c1a2f9-d457-4aa3-a80d-932af75e178f" alt="Spring" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/5d28098d-73bb-475e-930c-3c67cce4debc" alt="React" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/4d39dd97-7cac-4aba-9435-6ad8892bcd82" alt="Vite" width="50" height="50"/>
 </p>
+
 
 ## 📈 Mis estadísticas
 
